@@ -1,0 +1,76 @@
+#topnav {
+    background-color: firebrick;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    z-index: 1;
+}
+
+#topnav a {
+    float: left;
+    color: gainsboro;
+    text-align: center;
+    padding: 0.8% 0.9%;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#topnav a:hover {
+    background-color: ghostwhite;
+    color: firebrick;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    padding-top: 2.3%;
+    padding-left: 15%;
+    padding-right: 10%;
+}
+
+aside {
+    width: 40%;
+    float: right;
+    background-color: firebrick;
+    color: gainsboro;
+    padding: 1.25%;
+    margin: 5%;
+    margin-top: 0.8%;
+    margin-right: 0%;
+}
+
+aside a {
+    color: deepskyblue;
+}
+
+section {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+figure {
+    width: 60%;
+    height: 40%;
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+    padding: 0.2%;
+}
+
+#start_pad {
+    padding-top: 0.83%;
+}
+
+#end_pad {
+    padding-top: 0.83%;
+}
+
+#bigpad {
+    padding-top: 13%;
+}
