@@ -2,7 +2,7 @@
     text-align: center;
     padding-top: 6.2%;
     padding-bottom: 1.66%;
-    color: darkslategray;
+    color: aliceblue;
     margin-right: 1.66%;
     font-size: xx-large;
 }
@@ -10,5 +10,18 @@
 p {
     margin-bottom: 2.5%;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: slategrey;
+}
+
+header {
+    margin-bottom: 2.9%;
+    padding-bottom: 5%;
+    background-image: url('./images/homepage_background.png');
+}
+
+img {
+    width: 100%;
+}
+
+#purpose {
+    padding-bottom: 10%;
 }

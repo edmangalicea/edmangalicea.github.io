@@ -28,31 +28,40 @@ body {
 
 header {
     padding-top: 2.3%;
+    padding-bottom: 2.3%;
     padding-left: 15%;
     padding-right: 10%;
+    margin-top: 2.9%;
 }
 
 aside {
     width: 40%;
     float: right;
     background-color: firebrick;
-    color: gainsboro;
-    padding: 1.25%;
-    margin: 5%;
-    margin-top: 0.8%;
-    margin-right: 0%;
+    padding: 0.5%;
+    padding-bottom: 0.3%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 aside a {
     color: deepskyblue;
 }
 
+p {
+    color: slategrey;
+}
+
+li {
+    color: slategray;
+}
+
 section {
-    padding-left: 10%;
+    padding-left: 7%;
     padding-bottom: 1%;
     padding-top: 2%;
     background-color: aliceblue;
-    margin-left: 5%;
+    margin-left: 8%;
     margin-right: 5%;
     margin-bottom: 3%;
 }
